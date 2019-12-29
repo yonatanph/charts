@@ -1,4 +1,4 @@
-# Check Point Helm Charts
+# Check Point Helm Charts Repository
 
 ## Overview
 
@@ -8,7 +8,7 @@ The `stable` directory contains the Helm chart source files, while the `repo/sta
 
 To add the stable repo to local repository list run the following command : 
 ```
-helm repo add stable https://raw.githubusercontent.com/CheckPointSW/charts/repository/stable
+helm repo add stable https://raw.githubusercontent.com/CheckPointSW/charts/master/repository/stable/
 ```
 
 ## Install Helm
