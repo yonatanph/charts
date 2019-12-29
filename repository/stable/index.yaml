@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  cp-resource-management:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2019-12-29T14:36:30.909399495+02:00"
+    description: A Helm chart for Dome9 inventory uploader
+    digest: 98d800f57d97d99d1c918dee24ca64d253af13591a5df47dce282269a8bcc01a
+    home: https://secure.dome9.com/v2/
+    icon: https://secure.dome9.com/v2/assets/images/dome9/d9-logo-white.svg
+    keywords:
+    - checkpoint
+    - dome9
+    - inventory
+    - compliance
+    maintainers:
+    - email: dome9@checkpoint.com
+      name: Check Point
+    name: cp-resource-management
+    urls:
+    - https://github.com/yonatanph/charts/repository/stable/cp-resource-management-1.tgz
+    version: "1"
+generated: "2019-12-29T14:36:30.908330759+02:00"
