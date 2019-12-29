@@ -1,0 +1,16 @@
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Check Point Workloads security Agent
+keywords:
+- monitoring
+- security
+- alerting
+- metric
+- troubleshooting
+- run-time
+maintainers:
+- email: uladzimir@checkpoint.com
+  name: uladzimir
+name: workloads-security
+type: application
+version: 0.1.0

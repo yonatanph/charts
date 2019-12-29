@@ -1,0 +1,23 @@
+affinity: {}
+fullnameOverride: ""
+image:
+  pullPolicy: IfNotPresent
+  repository: 851852561843.dkr.ecr.us-west-2.amazonaws.com/sba
+  sysdig:
+    repository: sysdig/sysdig
+    tag: 0.26.4
+  tag: latest
+imagePullSecrets: []
+managementServer:
+  accessKey: null
+  ignoreSSl: "1"
+  url: null
+nameOverride: ""
+nodeSelector: {}
+podSecurityContext: {}
+resources: {}
+securityContext: {}
+serviceAccount:
+  create: true
+  name: null
+tolerations: []
